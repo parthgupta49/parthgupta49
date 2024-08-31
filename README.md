@@ -10,8 +10,8 @@
 
 - 💬 Ask me about **JavaScript, React**
 
-- 📫 How to reach me <a href="mailto:nbparthgupta4959@gmail.com">EMAIL_ME</a>
-
+<p style = "display:flex;flex-direction:row; align-items:center; gap:0.5rem;">- 📫 How to reach me <a href="mailto:nbparthgupta4959@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL"  /></a>
+</p>
 - 📄 Know about my experiences [MY_RESUME](https://drive.google.com/file/d/1fHiyZLQD6elnRGFwQPLBlv0OO01okAMP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
