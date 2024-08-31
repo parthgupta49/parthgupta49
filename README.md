@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Parth Gupta</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=7000&pause=2000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Parth+Gupta)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate Full-Stack developer</h3>
 
 - 🌱 I’m currently learning **ReactJS**
