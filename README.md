@@ -16,13 +16,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
         <a href = "https://twitter.com/parthgupta49" target = "_blank">
-        <img src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt = "logo" height = "30">
+        <img src = "https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white" alt = "logo" height = "30">
         </a>
         <a href = "https://www.linkedin.com/in/parth-gupta49/" target = "_blank">
-        <img src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt = "logo" height = "30">
+        <img src = "https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white" alt = "logo" height = "30">
         </a>
         <a href = "https://medium.com/@ParthGupta49" target = "_blank">
-        <img src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt = "logo" height = "30">
+        <img src = "https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium" alt = "logo" height = "30">
         </a>
 </p>
 
