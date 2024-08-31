@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript, React**
 
-- 📫 How to reach me [EMAIL_ME](nbparthgupta4959@gmail.com)
+- 📫 How to reach me <a href="mailto:nbparthgupta4959@gmail.com">EMAIL_ME</a>
 
 - 📄 Know about my experiences [MY_RESUME](https://drive.google.com/file/d/1fHiyZLQD6elnRGFwQPLBlv0OO01okAMP/view?usp=sharing)
 
