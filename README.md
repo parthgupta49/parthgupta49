@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **JavaScript, React**
-- 👨‍💻 All of my projects are available at <a href="https://portfolio-parthgupta.vercel.app/" target="_blank">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="GMAIL"  /></a>
-- 📫 How to reach me <a target="_blank" href="mailto:nbparthgupta4959@gmail.com">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL"/></a>
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1fHiyZLQD6elnRGFwQPLBlv0OO01okAMP/view?usp=sharing" target = "_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/My%20Resume-000000?style=for-the-badge" alt="Resume"  /></a>
+- 👨‍💻 All of my projects are available at <a href="https://portfolio-parthgupta.vercel.app/" target="_blank">&ensp;<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="GMAIL"  /></a>
+- 📫 How to reach me <a target="_blank" href="mailto:nbparthgupta4959@gmail.com">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL"/></a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1fHiyZLQD6elnRGFwQPLBlv0OO01okAMP/view?usp=sharing" target = "_blank">&ensp;&ensp;&ensp;&ensp;&ensp;<img src="https://img.shields.io/badge/My%20Resume-000000?style=for-the-badge" alt="Resume"  /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
