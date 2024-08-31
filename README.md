@@ -1,17 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=7000&pause=2000&color=FFFFFF&background=0d1117&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Parth+Gupta)](https://git.io/typing-svg)
 
+---
 <h3>A passionate Full-Stack developer</h3>
 
 - 🌱 I’m currently learning **ReactJS**
 
-- <span style = "display:flex;flex-direction:row; align-items:center; gap:0.5rem;">👨‍💻 All of my projects are available at <a href="https://portfolio-parthgupta.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="GMAIL"  /></a></span>
-
-
-
 - 💬 Ask me about **JavaScript, React**
-
-- <span style = "display:flex;flex-direction:row; align-items:center; gap:0.5rem;">📫 How to reach me <a target="_blank" href="mailto:nbparthgupta4959@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL"  /></a></span>
-- <span style = "display:flex;flex-direction:row; align-items:center; gap:0.5rem;">📄 Know about my experiences <a href="https://portfolio-parthgupta.vercel.app/" target = "_blank"><img src="https://img.shields.io/badge/My%20Resume-000000?style=for-the-badge" alt="Resume"  /></a></span>
+- 👨‍💻 All of my projects are available at <a href="https://portfolio-parthgupta.vercel.app/" target="_blank">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="GMAIL"  /></a>
+- 📫 How to reach me <a target="_blank" href="mailto:nbparthgupta4959@gmail.com">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL"/></a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1fHiyZLQD6elnRGFwQPLBlv0OO01okAMP/view?usp=sharing" target = "_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/My%20Resume-000000?style=for-the-badge" alt="Resume"  /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
