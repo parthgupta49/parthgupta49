@@ -2,7 +2,6 @@
 
 ---
 <h3>A passionate Full-Stack developer</h3>
-![](https://komarev.com/ghpvc/?username=parthgupta49&color=blueviolet)
 - 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **JavaScript, React**
