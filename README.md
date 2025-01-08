@@ -1,6 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=7000&pause=2000&color=FFFFFF&background=0d1117&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Parth+Gupta)
 
 ---
+<p>![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=parthgupta49)</p>
 <h3>A passionate Full-Stack developer</h3>
 
 - 🌱 I’m currently learning **NodeJS, Next.js**
